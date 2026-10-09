@@ -9,4 +9,6 @@ int largestElement(vector<int> &arr, int n) {
    return largest;
 }
 #BETTER-OPTIMAL
+s.c=o(1)
+t.c=o(n)
 [link](https://www.naukri.com/code360/problems/largest-element-in-the-array-largest-element-in-the-array_5026279?leftPanelTabValue=SOLUTION)
